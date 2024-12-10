@@ -1,0 +1,1 @@
+find $DWARF_DSYM_FOLDER_PATH -name "*.dSYM" | xargs -I \{\} $SRCROOT/Tuist/.build/checkouts/firebase-ios-sdk/Crashlytics/upload-symbols -gsp $TARGET_BUILD_DIR/$UNLOCALIZED_RESOURCES_FOLDER_PATH/GoogleService-Info.plist -p ios \{\}

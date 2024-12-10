@@ -1,0 +1,48 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "all_schedule_key" : {
+      "comment" : "Text for describing the schedule tab",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All Schedules"
+          }
+        }
+      }
+    },
+    "chat_key" : {
+      "comment" : "Text for describing the chat tab",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat"
+          }
+        }
+      }
+    },
+    "home_key" : {
+      "comment" : "Text for describing the home tab",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        }
+      }
+    },
+    "LOADING" : {
+
+    },
+    "Show Menu" : {
+
+    }
+  },
+  "version" : "1.0"
+}
